@@ -1,7 +1,7 @@
 # CDLI-Android-Application
 CDLI's Android application
 
-#Functionality
+## Functionality
 1. UI consistency between Android and IOS application.
 2. Batch fetching for performance improvement.
 3. Added a thumbnail view with a support for date display for easy navigation.
