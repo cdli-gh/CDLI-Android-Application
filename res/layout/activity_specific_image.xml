@@ -99,7 +99,9 @@
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/belleza"
                         android:text="@string/desc_text"
-                        android:textColor="@color/desc_text" />
+                        android:textColor="@color/desc_text"
+                        android:textSize="@dimen/desc_text_size"
+                        />
 
                     <TextView
                         android:id="@+id/spec_more_less"
